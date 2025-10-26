@@ -1,8 +1,8 @@
-NEPSE Portfolio System (NepaliTradeHub)
+## NEPSE Portfolio System (NepaliTradeHub)
 
 A FinTech-inspired SQL database project simulating real-world Nepal Stock Exchange (NEPSE) trading workflows. Built for learning and demonstrating relational database design, normalization, and complex SQL queries.
 
-🚀 Project Overview
+### 🚀 Project Overview
 
 This project models the operations of a stock trading platform, including:
 
@@ -16,13 +16,13 @@ Watchlist and dividend management
 
 It demonstrates how financial platforms rely on secure, structured, and normalized data.
 
-🛠 Key Features
+### 🛠 Key Features
 
 Normalized ER Model with 12+ entities
 
 Database designed in 3NF with strong referential integrity
 
-SQL scripts for:
+### SQL scripts for:
 
 Schema creation
 
@@ -32,18 +32,18 @@ Data insertion
 
 Complex SQL reporting using multiple JOINs and aggregations
 
-Future enhancements (suggested):
+### Future enhancements (suggested):
 
 Tax summary generator
 
 Notifications module
 
-📊 ERD Diagram
+### 📊 ERD Diagram
 
 
 <img width="1242" height="923" alt="NepalStockTrade_ERD drawio" src="https://github.com/user-attachments/assets/f16efa83-3249-4102-9c9d-3742747a4686" />
 
-💡 Skills Demonstrated
+### 💡 Skills Demonstrated
 
 SQL & MySQL
 
