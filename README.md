@@ -1,3 +1,8 @@
+*This CC BY-NC license applies to the project documentation (PPT/report). 
+*Use for learning/research allowed; commercial use not allowed. 
+*Code is MIT licensed.
+
+
 ## NEPSE Portfolio System (NepaliTradeHub)
 
 A FinTech-inspired SQL database project simulating real-world Nepal Stock Exchange (NEPSE) trading workflows. Built for learning and demonstrating relational database design, normalization, and complex SQL queries.
